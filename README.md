@@ -1,6 +1,10 @@
+### Name: Jayani N
+### Register Number: 212224100025
+
+
 # Ex. No.   - PROTOTYPE PART MODEL DESIGN IN 3D PRINTER
 
-### DATE: 
+### DATE: 17/04/25
 ## AIM: 
 ### To prototype the given part model design in 3D Printer.
 
@@ -47,8 +51,6 @@
 
 ## Output:
 
-### Name:
-### Register Number:
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
